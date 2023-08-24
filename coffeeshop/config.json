@@ -1,0 +1,12 @@
+{
+    "coffeelist":[
+        {
+            "name":"Latte",
+            "price":3
+        },
+        {
+            "name":"Cappuccino",
+            "price":2.5
+        }
+    ]
+}
